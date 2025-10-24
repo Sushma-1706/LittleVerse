@@ -107,14 +107,13 @@ littleverse/
 git clone https://github.com/<username>/littleverse.git
 Install dependencies:
 
-Copy code
+
 cd littleverse
 npm install
 Start the development server:
 
 
-Copy code
-npm start
+
 Open http://localhost:3000 in your browser.
 
 📌 Future Improvements
